@@ -1,8 +1,8 @@
 html
-<h1 align="center">Hi 👋, I'm Palak Jain</h1>
+<h1 align="center">Hi! I'm Palak Jain</h1>
 
 <h3 align="center">
-✨ AI/ML Enthusiast | Aspiring Data Scientist | Python Developer ✨
+✨ AI/ML Enthusiast | Aspiring Data Scientist | Python ✨
 </h3>
 
 <p align="center">
@@ -11,6 +11,7 @@ Exploring the world of Artificial Intelligence, Machine Learning, and Data Analy
 </p>
 
 <p align="center">
+  <br>
   <img src="https://komarev.com/ghpvc/?username=palakjain&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
@@ -68,10 +69,10 @@ alt="git" width="45" height="45"/>
 alt="mysql" width="45" height="45"/>
 </a>
 
-<a href="https://jupyter.org/" target="_blank">
+<!-- <a href="https://jupyter.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
 alt="jupyter" width="45" height="45"/>
-</a>
+</a> -->
 
 </p>
 
@@ -79,7 +80,7 @@ alt="jupyter" width="45" height="45"/>
 
 # 📈 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
 
 <img width="48%"
 src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -87,7 +88,7 @@ src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icon
 <img width="48%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
@@ -108,13 +109,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-origin
 alt="linkedin" height="35" width="35" />
 </a>
 
-<a href="https://instagram.com/" target="blank">
+<!-- <a href="https://instagram.com/" target="blank">
 <img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 alt="instagram" height="35" width="35" />
-</a>
+</a> -->
 
-<a href="mailto:yourmail@gmail.com">
+<a href="palak.codespace@gmail.com" target="blank">
 <img align="center"
 src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
 alt="gmail" height="35" width="35"/>
@@ -137,4 +138,4 @@ alt="gmail" height="35" width="35"/>
 <p align="center">
 ⭐ From <b>Palak Jain</b> | Turning Ideas into Intelligent Solutions ✨
 </p>
-```
+
