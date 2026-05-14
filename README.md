@@ -11,11 +11,11 @@ Exploring the world of Artificial Intelligence, Machine Learning, and Data Analy
 </p>
 
 <p align="center">
-  <br> <br> <br> <br>
   <img src="https://komarev.com/ghpvc/?username=palakjain&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
+  <br> <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Explorer;Python+%7C+Data+Science+%7C+Analytics;Building+Creative+and+Smart+Projects;Always+Learning+New+Things+✨" />
 </p>
 
