@@ -1,4 +1,4 @@
-```html
+html
 <h1 align="center">Hi 👋, I'm Palak Jain</h1>
 
 <h3 align="center">
@@ -106,4 +106,4 @@ alt="top languages"/>
 <p align="center">
 "Keep learning, keep growing, and let your code tell your story." 🚀
 </p>
-```
+
