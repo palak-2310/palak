@@ -2,16 +2,20 @@ html
 <h1 align="center">Hi 👋, I'm Palak Jain</h1>
 
 <h3 align="center">
-AI/ML Trainee | Python Enthusiast | Aspiring Data Scientist 🚀
+✨ AI/ML Enthusiast | Aspiring Data Scientist | Python Developer ✨
 </h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, and Data Science 📊✨ <br>
-I love learning new technologies, building creative projects, and exploring the world of AI.
+Passionate about transforming data into meaningful insights 📊 <br>
+Exploring the world of Artificial Intelligence, Machine Learning, and Data Analytics 🚀
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=palakjain&label=Profile%20Views&color=blueviolet&style=flat" alt="palakjain" />
+  <img src="https://komarev.com/ghpvc/?username=palakjain&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Explorer;Python+%7C+Data+Science+%7C+Analytics;Building+Creative+and+Smart+Projects;Always+Learning+New+Things+✨" />
 </p>
 
 <img align="right" alt="Coding" width="350"
@@ -19,91 +23,118 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🌱 Currently learning **Machine Learning & Data Science**
-- 💻 Exploring **Python, NumPy, Pandas & AI Tools**
-- 📚 Interested in **Data Analytics & Visualization**
-- 🚀 Working on beginner-friendly AI/ML projects
-- ✨ Curious to learn and grow every day
+✨ Passionate and curious learner in the field of AI & Data Science  
+💡 Interested in solving real-world problems using technology  
+📚 Currently learning Machine Learning, Data Analytics & Visualization  
+💻 Skilled in Python, NumPy, Pandas, and beginner-level ML projects  
+🚀 Exploring innovative AI tools and predictive systems  
+🌱 Continuously improving technical and analytical skills  
 
 ---
 
-## 📫 Connect With Me
+# 🛠 Tech Stack & Tools
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+alt="python" width="45" height="45"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+alt="numpy" width="45" height="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+alt="pandas" width="45" height="45"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+alt="sklearn" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+alt="git" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+alt="mysql" width="45" height="45"/>
+</a>
+
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+alt="jupyter" width="45" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/" target="blank">
 <img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="linkedin" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+alt="linkedin" height="35" width="35" />
 </a>
 
 <a href="https://instagram.com/" target="blank">
 <img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-alt="instagram" height="30" width="40" />
+alt="instagram" height="35" width="35" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img align="center"
+src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+alt="gmail" height="35" width="35"/>
 </a>
 
 </p>
 
 ---
 
-## 🛠 Languages and Tools
+# ✨ Quote of the Day
 
-<p align="left">
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
-alt="numpy" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-alt="pandas" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-alt="scikit_learn" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-alt="mysql" width="40" height="40"/>
-</a>
+<p align="center">
+  
+💭 *"Keep learning, keep building, and let your work speak for itself."* 🚀
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
-alt="github stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-alt="top languages"/>
-</p>
-
----
-
-## ✨ Quote
-
-<p align="center">
-"Keep learning, keep growing, and let your code tell your story." 🚀
+⭐ From <b>Palak Jain</b> | Turning Ideas into Intelligent Solutions ✨
 </p>
 
