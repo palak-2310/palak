@@ -1,83 +1,63 @@
-html
+html id="5u2xwa"
 <h1 align="center">Hi 👋, I'm Palak Jain</h1>
 
 <h3 align="center">
-✨ AI/ML Enthusiast | Aspiring Data Scientist | Python Developer ✨
+Data Science Enthusiast • AI/ML Learner • Python Developer
 </h3>
 
 <p align="center">
-Passionate about transforming data into meaningful insights 📊 <br>
-Exploring the world of Artificial Intelligence, Machine Learning, and Data Analytics 🚀
+Passionate about transforming data into meaningful insights and building intelligent solutions through Machine Learning & Artificial Intelligence.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=palakjain&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;AI+%26+Machine+Learning+Explorer;Python+Developer;Data+Analytics+%26+Visualization;Always+Learning+New+Technologies+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Explorer;Python+%7C+Data+Science+%7C+Analytics;Building+Creative+and+Smart+Projects;Always+Learning+New+Things+✨" />
+<img src="https://komarev.com/ghpvc/?username=palakjain&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
 </p>
 
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+---
+
+<img align="right" alt="Coding" width="340"
+src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+## 👩‍💻 About Me
+
+- 🎓 MBA Student specializing in **Data Analytics & Visualization**
+- 🌱 Currently learning **Machine Learning, AI & Data Science**
+- 💻 Skilled in **Python, NumPy, Pandas & Scikit-learn**
+- 📊 Interested in **Data Analytics, Visualization & Predictive Systems**
+- 🚀 Building real-world beginner-friendly AI/ML projects
+- ✨ Passionate about continuous learning and innovation
 
 ---
 
-# 👩‍💻 About Me
-
-✨ Passionate and curious learner in the field of AI & Data Science  
-💡 Interested in solving real-world problems using technology  
-📚 Currently learning Machine Learning, Data Analytics & Visualization  
-💻 Skilled in Python, NumPy, Pandas, and beginner-level ML projects  
-🚀 Exploring innovative AI tools and predictive systems  
-🌱 Continuously improving technical and analytical skills  
-
----
-
-# 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
 <p align="left">
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-alt="python" width="45" height="45"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
-alt="numpy" width="45" height="45"/>
-</a>
+</p>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-alt="pandas" width="45" height="45"/>
-</a>
+### 📚 Libraries & Frameworks
 
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-alt="sklearn" width="45" height="45"/>
-</a>
+<p align="left">
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-alt="git" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-alt="mysql" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-alt="jupyter" width="45" height="45"/>
-</a>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Analytics
 
 <p align="center">
 
@@ -98,43 +78,47 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 ---
 
-# 🌐 Connect With Me
+## 🚀 Featured Interests
+
+✨ Artificial Intelligence  
+✨ Machine Learning  
+✨ Data Analytics  
+✨ Predictive Modeling  
+✨ Data Visualization  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/" target="blank">
-<img align="center"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-alt="linkedin" height="35" width="35" />
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="https://instagram.com/" target="blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-alt="instagram" height="35" width="35" />
+<a href="https://instagram.com">
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img align="center"
-src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-alt="gmail" height="35" width="35"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="42"/>
 </a>
 
 </p>
 
 ---
 
-# ✨ Quote of the Day
+## ✨ Quote
 
 <p align="center">
-  
-💭 *"Keep learning, keep building, and let your work speak for itself."* 🚀
+
+“Success is built through consistency, curiosity, and continuous learning.”
 
 </p>
 
 ---
 
 <p align="center">
-⭐ From <b>Palak Jain</b> | Turning Ideas into Intelligent Solutions ✨
+⭐ Turning ideas into intelligent solutions with code & creativity ⭐
 </p>
-
+```
