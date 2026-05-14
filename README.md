@@ -1,124 +1,91 @@
-html id="5u2xwa"
-<h1 align="center">Hi 👋, I'm Palak Jain</h1>
+html id="3n4fpa"
+<h1 align="center">Palak Jain</h1>
 
 <h3 align="center">
-Data Science Enthusiast • AI/ML Learner • Python Developer
+Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 </h3>
 
 <p align="center">
-Passionate about transforming data into meaningful insights and building intelligent solutions through Machine Learning & Artificial Intelligence.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;AI+%26+Machine+Learning+Explorer;Python+Developer;Data+Analytics+%26+Visualization;Always+Learning+New+Technologies+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=palakjain&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
+Focused on building data-driven solutions and continuously enhancing analytical and technical skills.
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="340"
-src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+## Professional Summary
 
-## 👩‍💻 About Me
-
-- 🎓 MBA Student specializing in **Data Analytics & Visualization**
-- 🌱 Currently learning **Machine Learning, AI & Data Science**
-- 💻 Skilled in **Python, NumPy, Pandas & Scikit-learn**
-- 📊 Interested in **Data Analytics, Visualization & Predictive Systems**
-- 🚀 Building real-world beginner-friendly AI/ML projects
-- ✨ Passionate about continuous learning and innovation
+Motivated and detail-oriented aspiring Data Science professional with a strong interest in Artificial Intelligence, Machine Learning, and Data Analytics. Skilled in Python, data preprocessing, visualization, and predictive modeling with a passion for solving real-world problems using technology.
 
 ---
 
-## 🛠 Tech Stack
+## Technical Skills
 
-<p align="left">
+### Programming & Database
+- Python
+- SQL
+- MySQL
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+### Data Science & Machine Learning
+- NumPy
+- Pandas
+- Scikit-learn
+- Data Cleaning
+- Data Visualization
+- Predictive Modeling
 
-</p>
-
-### 📚 Libraries & Frameworks
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-</p>
+### Tools & Platforms
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
-## 📈 GitHub Analytics
+## Current Focus
+
+- Machine Learning Projects
+- Data Analytics & Visualization
+- Real-world Predictive Systems
+- Strengthening Problem-Solving Skills
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 
 <img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
 
 <img width="48%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Interests
-
-✨ Artificial Intelligence  
-✨ Machine Learning  
-✨ Data Analytics  
-✨ Predictive Modeling  
-✨ Data Visualization  
-
----
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+width="35"/>
 </a>
 
 <a href="https://instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+width="35"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="42"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+width="35"/>
 </a>
 
 </p>
 
 ---
 
-## ✨ Quote
-
 <p align="center">
-
-“Success is built through consistency, curiosity, and continuous learning.”
-
-</p>
-
----
-
-<p align="center">
-⭐ Turning ideas into intelligent solutions with code & creativity ⭐
+"Continuous learning and consistency are the foundations of growth."
 </p>
 ```
