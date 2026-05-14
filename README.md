@@ -11,7 +11,7 @@ Exploring the world of Artificial Intelligence, Machine Learning, and Data Analy
 </p>
 
 <p align="center">
-  <br>
+  <br> <br> <br> <br>
   <img src="https://komarev.com/ghpvc/?username=palakjain&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
@@ -78,9 +78,11 @@ alt="jupyter" width="45" height="45"/>
 
 ---
 
-# 📈 GitHub Statistics
 
-<!-- <p align="center">
+
+<!-- 
+# 📈 GitHub Statistics
+<p align="center">
 
 <img width="48%"
 src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -90,14 +92,14 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=
 
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
 
 <img width="40%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+--- -->
 
 # 🌐 Connect With Me
 
