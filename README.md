@@ -1,4 +1,4 @@
-html
+<!--html-->
 <h1 align="center">Hi! I'm Palak Jain</h1>
 
 <h3 align="center">
@@ -19,12 +19,14 @@ Exploring the world of Artificial Intelligence, Machine Learning, and Data Analy
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Explorer;Python+%7C+Data+Science+%7C+Analytics;Building+Creative+and+Smart+Projects;Always+Learning+New+Things+✨" />
 </p>
 
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
----
+<!-- <img align="right" alt="Coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 # 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 ✨ Passionate and curious learner in the field of AI & Data Science  
 💡 Interested in solving real-world problems using technology  
@@ -32,6 +34,17 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 💻 Skilled in Python, NumPy, Pandas, and beginner-level ML projects  
 🚀 Exploring innovative AI tools and predictive systems  
 🌱 Continuously improving technical and analytical skills  
+
+</td>
+
+<td width="40%" align="center">
+
+<img align="center" alt="Coding" width="300"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
