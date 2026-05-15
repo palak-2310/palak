@@ -39,7 +39,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 <td width="40%" align="center">
 
-<img align="center" alt="Coding" width="500"
+<img align="center" alt="Coding" width="400"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </td>
